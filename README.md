@@ -28,16 +28,20 @@ A web-based quiz platform built using Django, allowing users to take quizzes and
 # Clone the repository
 git clone https://github.com/yourusername/quiz-platform.git
 cd quiz-platform
+```
 
 # Create and activate a virtual environment
+```
 python -m venv venv
 source venv/bin/activate   # On Windows: venv\Scripts\activate
-
-# Install dependencies
-pip install -r requirements.txt
+```
 
 # Apply migrations
+```
 python manage.py migrate
+```
 
 # Run the development server
+```
 python manage.py runserver
+```
