@@ -45,3 +45,11 @@ python manage.py migrate
 ```
 python manage.py runserver
 ```
+# Running Tests
+```
+python manage.py test
+```
+
+# 🤝 Contributing
+Contributions, issues, and feature requests are welcome!
+Feel free to fork the repo and submit a pull request.
